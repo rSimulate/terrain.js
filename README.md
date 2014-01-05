@@ -1,10 +1,9 @@
-terrainReferenceEngine
+Nodejs-backed Terrain Engine
 ======================
 
-A MetaSim Terrain Reference Engine
+A MetaSim Terrain Engine
 
-Reference engines provide little to no functionality and serve as an example of API implementation.
-Please fork this an extend it! :)
+This terrain engine will server terrain data, and run terrain background jobs.
 
 Running with Node+MongoDB
 =========================
